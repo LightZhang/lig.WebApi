@@ -1,0 +1,14 @@
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\bin\Debug\netcoreapp2.2\lig.WebApi.deps.json
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\bin\Debug\netcoreapp2.2\lig.WebApi.runtimeconfig.json
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\bin\Debug\netcoreapp2.2\lig.WebApi.runtimeconfig.dev.json
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\bin\Debug\netcoreapp2.2\lig.WebApi.dll
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\bin\Debug\netcoreapp2.2\lig.WebApi.pdb
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.csprojAssemblyReference.cache
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.csproj.CoreCompileInputs.cache
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.RazorAssemblyInfo.cache
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.RazorAssemblyInfo.cs
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.AssemblyInfoInputs.cache
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.AssemblyInfo.cs
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.RazorTargetAssemblyInfo.cache
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.dll
+E:\项目\github\lecture-small-program\api\webapi\lig.WebApi\obj\Debug\netcoreapp2.2\lig.WebApi.pdb
