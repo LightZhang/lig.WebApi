@@ -1,0 +1,8 @@
+E:\项目\github\lig.WebApi\lig.Service\bin\Debug\netcoreapp2.2\lig.Service.deps.json
+E:\项目\github\lig.WebApi\lig.Service\bin\Debug\netcoreapp2.2\lig.Service.dll
+E:\项目\github\lig.WebApi\lig.Service\bin\Debug\netcoreapp2.2\lig.Service.pdb
+E:\项目\github\lig.WebApi\lig.Service\obj\Debug\netcoreapp2.2\lig.Service.csproj.CoreCompileInputs.cache
+E:\项目\github\lig.WebApi\lig.Service\obj\Debug\netcoreapp2.2\lig.Service.AssemblyInfoInputs.cache
+E:\项目\github\lig.WebApi\lig.Service\obj\Debug\netcoreapp2.2\lig.Service.AssemblyInfo.cs
+E:\项目\github\lig.WebApi\lig.Service\obj\Debug\netcoreapp2.2\lig.Service.dll
+E:\项目\github\lig.WebApi\lig.Service\obj\Debug\netcoreapp2.2\lig.Service.pdb

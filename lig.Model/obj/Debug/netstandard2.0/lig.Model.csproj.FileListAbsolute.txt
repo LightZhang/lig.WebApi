@@ -1,0 +1,8 @@
+E:\项目\github\lig.WebApi\lig.Model\bin\Debug\netstandard2.0\lig.Model.deps.json
+E:\项目\github\lig.WebApi\lig.Model\bin\Debug\netstandard2.0\lig.Model.dll
+E:\项目\github\lig.WebApi\lig.Model\bin\Debug\netstandard2.0\lig.Model.pdb
+E:\项目\github\lig.WebApi\lig.Model\obj\Debug\netstandard2.0\lig.Model.csproj.CoreCompileInputs.cache
+E:\项目\github\lig.WebApi\lig.Model\obj\Debug\netstandard2.0\lig.Model.AssemblyInfoInputs.cache
+E:\项目\github\lig.WebApi\lig.Model\obj\Debug\netstandard2.0\lig.Model.AssemblyInfo.cs
+E:\项目\github\lig.WebApi\lig.Model\obj\Debug\netstandard2.0\lig.Model.dll
+E:\项目\github\lig.WebApi\lig.Model\obj\Debug\netstandard2.0\lig.Model.pdb
